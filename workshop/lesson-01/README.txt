@@ -17,7 +17,6 @@ sql
 web
 
 
-
 # TODO 1. Open 'inventory/hosts' in your editor and look what it is about.
 # TODO 2. Copy the inventory directory to the project directory.
 

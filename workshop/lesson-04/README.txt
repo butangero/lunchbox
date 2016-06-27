@@ -16,7 +16,7 @@ Vagrant has a liberal way to deal with key pairs, and that makes projects sharab
 
 # TODO 2. Log into the 'control' host: vagrant ssh
 
-# TODO 3: Change to the project directory:
+# TODO 3. Change to the project directory:
 
   cd project
 

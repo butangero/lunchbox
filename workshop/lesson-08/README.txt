@@ -36,9 +36,9 @@ Group variables (group_vars) are facts that apply to a grouping of servers. Thes
 
 The name of the files in the group_vars directory line up with the group name being targeted. "all" is a special keyword to apply facts to all hosts.
 
-# TODO 2. In the directory 'group_vars' create a text file 'all', define the ansible_user: ansible
+# TODO 4. In the directory 'group_vars' create a text file 'all', define the ansible_user: ansible
 
-# TODO 3. In the directory 'group_vars' create a text file 'vagrant', define the ansible_user: vagrant
+# TODO 5. In the directory 'group_vars' create a text file 'vagrant', define the ansible_user: vagrant
 
 # TIP: variables files can be encrypted with a password.
 
